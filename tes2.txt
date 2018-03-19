@@ -1,0 +1,7 @@
+repository adalah
+managemen coding
+
+github bisa melihat koding yang lalu lalu tanpa harus ngoding ulang dari awal
+gitbas = setiap perubahan akan tercatat di sistem ata folder repository
+perintah = gita add.
+git log =untuk lihat smua komit yang pernah di buat
